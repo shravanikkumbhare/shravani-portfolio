@@ -7,7 +7,7 @@ Welcome to my portfolio! My name is Shravani Kumbhare, and I am a Software Devel
 ## About Me
 
 I am a dedicated and motivated professional with experience in Full Stack Development. My expertise lies in FRONTEND & BACKEND development.
-
+ 
 ## Portfolio Highlights
 ## Achievements
 
